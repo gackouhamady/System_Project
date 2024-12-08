@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ethereum",
+    "price": 3984.909912,
+    "symbol": "ETH",
+    "updatedAt": "2024-12-08T16:52:50Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_17-53-34"
+  },
+  {
+    "name": "Ethereum",
+    "price": 3986.98999,
+    "symbol": "ETH",
+    "updatedAt": "2024-12-08T18:05:50Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_19-06-08"
+  },
+  {
+    "name": "Ethereum",
+    "price": 3987.889893,
+    "symbol": "ETH",
+    "updatedAt": "2024-12-08T18:08:51Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_19-09-37"
+  }
+]

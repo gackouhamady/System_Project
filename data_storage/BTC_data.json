@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bitcoin",
+    "price": 99836.226562,
+    "symbol": "BTC",
+    "updatedAt": "2024-12-08T16:52:49Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_17-53-34"
+  },
+  {
+    "name": "Bitcoin",
+    "price": 99985.640625,
+    "symbol": "BTC",
+    "updatedAt": "2024-12-08T18:05:49Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_19-06-08"
+  },
+  {
+    "name": "Bitcoin",
+    "price": 100039.78125,
+    "symbol": "BTC",
+    "updatedAt": "2024-12-08T18:08:49Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_19-09-37"
+  }
+]
