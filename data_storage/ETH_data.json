@@ -22,5 +22,13 @@
     "updatedAt": "2024-12-08T18:08:51Z",
     "updatedAtReadable": "a few seconds ago",
     "timestamp": "2024-12-08_19-09-37"
+  },
+  {
+    "name": "Ethereum",
+    "price": 3976.459961,
+    "symbol": "ETH",
+    "updatedAt": "2024-12-08T19:15:51Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_20-16-35"
   }
 ]
