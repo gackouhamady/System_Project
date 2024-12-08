@@ -1,0 +1,25 @@
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: not found
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: not found
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: not found
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: not found
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: not found
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: not found
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: Permission denied
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: Permission denied
+/bin/sh: 1: /home/user/System_Project/alpha_script.sh: Permission denied
+Le dossier ./alpha_data n'existe pas. Création en cours...
+Données collectées et ajoutées pour SPY dans ./alpha_data/SPY_data.json
+Données collectées et ajoutées pour STOXX600_INDEX dans ./alpha_data/STOXX600_INDEX_data.json
+Données collectées et ajoutées pour CSI300_INDEX dans ./alpha_data/CSI300_INDEX_data.json
+Données collectées et ajoutées pour SPY dans ./alpha_data/SPY_data.json
+Données collectées et ajoutées pour STOXX600_INDEX dans ./alpha_data/STOXX600_INDEX_data.json
+Données collectées et ajoutées pour CSI300_INDEX dans ./alpha_data/CSI300_INDEX_data.json
+Données collectées et ajoutées pour SPY dans ./alpha_data/SPY_data.json
+Données collectées et ajoutées pour STOXX600_INDEX dans ./alpha_data/STOXX600_INDEX_data.json
+Données collectées et ajoutées pour CSI300_INDEX dans ./alpha_data/CSI300_INDEX_data.json
+Données collectées et ajoutées pour SPY dans ./alpha_data/SPY_data.json
+Données collectées et ajoutées pour STOXX600_INDEX dans ./alpha_data/STOXX600_INDEX_data.json
+Données collectées et ajoutées pour CSI300_INDEX dans ./alpha_data/CSI300_INDEX_data.json
+Données collectées et ajoutées pour SPY dans ./alpha_data/SPY_data.json
+Données collectées et ajoutées pour STOXX600_INDEX dans ./alpha_data/STOXX600_INDEX_data.json
+Données collectées et ajoutées pour CSI300_INDEX dans ./alpha_data/CSI300_INDEX_data.json

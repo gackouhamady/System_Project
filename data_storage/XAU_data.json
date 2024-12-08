@@ -22,5 +22,13 @@
     "updatedAt": "2024-12-08T18:08:48Z",
     "updatedAtReadable": "a few seconds ago",
     "timestamp": "2024-12-08_19-09-37"
+  },
+  {
+    "name": "Gold",
+    "price": 2633.5,
+    "symbol": "XAU",
+    "updatedAt": "2024-12-08T19:15:48Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_20-16-35"
   }
 ]

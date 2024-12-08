@@ -22,5 +22,13 @@
     "updatedAt": "2024-12-08T18:08:49Z",
     "updatedAtReadable": "a few seconds ago",
     "timestamp": "2024-12-08_19-09-37"
+  },
+  {
+    "name": "Bitcoin",
+    "price": 99693.617188,
+    "symbol": "BTC",
+    "updatedAt": "2024-12-08T19:15:50Z",
+    "updatedAtReadable": "a few seconds ago",
+    "timestamp": "2024-12-08_20-16-35"
   }
 ]
