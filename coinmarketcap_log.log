@@ -1,0 +1,9 @@
+/bin/sh: 1: /home/user/System_Project/coinmarketcap_script.sh: Permission denied
+/bin/sh: 1: /home/user/System_Project/coinmarketcap_script.sh: Permission denied
+/bin/sh: 1: /home/user/System_Project/coinmarketcap_script.sh: Permission denied
+/bin/sh: 1: /home/user/System_Project/coinmarketcap_script.sh: Permission denied
+Le dossier ./crypto_data n'existe pas. Création en cours...
+Données collectées et ajoutées pour BTC dans ./crypto_data/BTC_data.json
+Données collectées et ajoutées pour ETH dans ./crypto_data/ETH_data.json
+Données collectées et ajoutées pour BTC dans ./crypto_data/BTC_data.json
+Données collectées et ajoutées pour ETH dans ./crypto_data/ETH_data.json

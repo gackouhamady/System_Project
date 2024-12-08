@@ -1,0 +1,82 @@
+[{
+  "status": {
+    "timestamp": "2024-12-08T23:18:33.479Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 27,
+    "credit_count": 1,
+    "notice": null
+  },
+  "data": {
+    "ETH": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "num_market_pairs": 9647,
+      "date_added": "2015-08-07T00:00:00.000Z",
+      "tags": [
+        "pos",
+        "smart-contracts",
+        "ethereum-ecosystem",
+        "coinbase-ventures-portfolio",
+        "three-arrows-capital-portfolio",
+        "polychain-capital-portfolio",
+        "binance-labs-portfolio",
+        "blockchain-capital-portfolio",
+        "boostvc-portfolio",
+        "cms-holdings-portfolio",
+        "dcg-portfolio",
+        "dragonfly-capital-portfolio",
+        "electric-capital-portfolio",
+        "fabric-ventures-portfolio",
+        "framework-ventures-portfolio",
+        "hashkey-capital-portfolio",
+        "kenetic-capital-portfolio",
+        "huobi-capital-portfolio",
+        "alameda-research-portfolio",
+        "a16z-portfolio",
+        "1confirmation-portfolio",
+        "winklevoss-capital-portfolio",
+        "usv-portfolio",
+        "placeholder-ventures-portfolio",
+        "pantera-capital-portfolio",
+        "multicoin-capital-portfolio",
+        "paradigm-portfolio",
+        "layer-1",
+        "ftx-bankruptcy-estate"
+      ],
+      "max_supply": null,
+      "circulating_supply": 120443660.78879651,
+      "total_supply": 120443660.78879651,
+      "is_active": 1,
+      "infinite_supply": true,
+      "platform": null,
+      "cmc_rank": 2,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "tvl_ratio": null,
+      "last_updated": "2024-12-08T23:16:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 4000.1225791726233,
+          "volume_24h": 20495447226.53267,
+          "volume_change_24h": -11.7994,
+          "percent_change_1h": 0.03689961,
+          "percent_change_24h": -0.16484121,
+          "percent_change_7d": 7.46370734,
+          "percent_change_30d": 35.12960168,
+          "percent_change_60d": 69.01735323,
+          "percent_change_90d": 69.49086929,
+          "market_cap": 481789407039.47327,
+          "market_cap_dominance": 13.058,
+          "fully_diluted_market_cap": 481789407039.47,
+          "tvl": null,
+          "last_updated": "2024-12-08T23:16:00.000Z"
+        }
+      }
+    }
+  },
+  "timestamp": "2024-12-09_00-18-31"
+}]
